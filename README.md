@@ -13,10 +13,6 @@ ________________________________________________________________________________
                                                                                                             
 _________________________________________________________________________________________________________________________________________________________________________
 
-- 🔭 I’m currently working on ... Personal Projects
-- ❣️ Love to make Cool Effects using ... CSS
-- 🌱 I’m currently learning ... JavaScript
-- 👯 I’m looking to collaborate on ... CSS
-- 🤔 I’m looking for help with ... JavaScript
-- 📫 How to reach me: ...[Twitter](https://twitter.com/MAhmad_787)
-- 😂 Fun fact: ... HTML Coder
+#### Aspiring CyberSecurity Analyst
+#### Web Developer
+#### Student of BSc CyberSecurity
